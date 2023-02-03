@@ -83,7 +83,7 @@ defaultBackgroundImage = "../assets/img/background_img.jpg" # used as default fo
   showTableOfContents = true
   showCards = true
   groupByYear = false
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
@@ -92,24 +92,24 @@ defaultBackgroundImage = "../assets/img/background_img.jpg" # used as default fo
 
 [taxonomy]
   showTermCount = true
-  #showHero = true
-  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   #showViews = false
   #showLikes = false
-  #showTableOfContents = true
-  #cardView = false
+  showTableOfContents = true
+  cardView = false
 
 [term]
-  #showHero = true
-  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   #showViews = false
   #showLikes = false
   #showTableOfContents = true
   #groupByYear = false
-  #cardViewScreenWidth = false
-  #cardView = false
+  cardViewScreenWidth = true
+  cardView = true
 
 [firebase]
   # apiKey = "XXXXXX"
