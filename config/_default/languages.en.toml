@@ -14,12 +14,12 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Jose Simon"
-  image = "img/blowfish_logo.png"
-  headline = "Full-stack developer. Full time curious"
+  image = "img/avatar.png"
+  headline = "Full-stack developer"
   bio = "A little bit about you"
    links = [
     { email = "mailto:josexp93@gmail.com" },
-    { link = "https://link-to-some-website.com/" },
+    { link = "https://leetcode.com/jaxp42/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
