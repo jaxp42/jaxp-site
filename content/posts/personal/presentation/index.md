@@ -3,7 +3,10 @@ title: "Presentation"
 date: 2023-02-02T19:22:50+01:00
 draft: false
 tags: ["personal"]
+summary: "This is my first post in the blog. Here you will find some info about what to expect of this site."
 ---
+
+# Welcome to my blog! 
 
 ## Why the blog?
 
