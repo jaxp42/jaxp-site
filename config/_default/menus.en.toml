@@ -16,21 +16,21 @@
   weight = 10
 
 [[main]]
-  name = "Personal"
+  name = "Coding"
   parent = "Blog"
-  pageRef = "posts/personal"
-  weight = 20
-
-[[main]]
-  name = "Java"
-  parent = "Blog"
-  pageRef = "posts/java"
+  pageRef = "posts/coding"
   weight = 20
 
 [[main]]
   name = "HTB"
   parent = "Blog"
-  pageRef = "posts/hack the box"
+  pageRef = "posts/htb"
+  weight = 20
+
+[[main]]
+  name = "Personal"
+  parent = "Blog"
+  pageRef = "posts/personal"
   weight = 20
 
 [[main]]
