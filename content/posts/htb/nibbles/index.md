@@ -1,7 +1,7 @@
 ---
 title: "Nibbles"
 date: 2023-02-04T21:41:39+01:00
-draft: true
+draft: false
 tags: ["htb","easy","security"]
 summary: "Walkthrough of the Nibbles easy machine from Hack The Box"
 ---
