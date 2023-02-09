@@ -21,6 +21,13 @@
   pageRef = "posts/coding"
   weight = 20
 
+  [[main]]
+  name = "Theory"
+  parent = "Blog"
+  pageRef = "posts/theory"
+  weight = 20
+
+
 [[main]]
   name = "HTB"
   parent = "Blog"

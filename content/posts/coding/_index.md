@@ -1,6 +1,6 @@
 ---
 title: "Coding"
-description: "Java, C++, JS, Groovy, theory..."
+description: "Java, C++, JS, Groovy..."
 cascade:
-  showReadingTime: false
+  showReadingTime: true
 ---
